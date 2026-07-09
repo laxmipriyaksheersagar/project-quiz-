@@ -20,7 +20,7 @@ No external dependencies — built entirely with core Python.
 Clone the repository and run the script:
 
 ```bash
-git clone 
+git clone https://github.com/laxmipriyaksheersagar/project-quiz-.git
 cd general-knowledge-quiz
 python general_knowledge_quiz.py
 ```
